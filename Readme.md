@@ -1,9 +1,8 @@
-<!-- # FSD Javascript Bootcamp -->
-# HTML CSS Project-12 
+<!-- # FSD Javascript  Bootcamp -->
+## HTML CSS Project - 09
 
-**Learnings** :
+Author : Rahul Yeul 
 
-- learned about `object-fit` and `object-position` css properies to handle image/video size and positioning  
+Github Link : https://github.com/rsyeul/HTML-CSS-Project-09
 
-
-<!-- ### [Live Link]() -->
+[Live-Link](https://rahul-project-09.netlify.app/)
